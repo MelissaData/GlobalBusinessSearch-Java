@@ -21,10 +21,11 @@ If you do not, please contact sales (800-800-6245 ext. 3) for a trial.
 
 | Version  | Compatibility |
 | ---------- | ----------- |
-| JAVA 1  | No  |
-| JAVA 2  | No  |
-| JAVA 3  | No  |
-| JAVA 4  | No  |
+| JAVA 1.0  | No  |
+| JAVA 1.1  | No  |
+| JAVA 1.2  | No  |
+| JAVA 1.3  | No  |
+| JAVA 1.4  | No  |
 | JAVA 5  | No  |
 | JAVA 6  | No  |
 | JAVA 7  | No  |
